@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "0088746",
+      "name": "Navy Striped Polo T-shirt",
+      "thumbnail": "https://placeimg.com/200/250/any",
+      "size": "Large",
+      "price": 84.00,
+      "quantity": 1,
+      "In_Stock": true
+    },
+    {
+      "id": "0088747",
+      "name": "Navy Polo T-shirt",
+      "thumbnail": "https://placeimg.com/200/250/any",
+      "size": "Medium",
+      "price": 112.00,
+      "quantity": 2,
+      "In_Stock": true
+    },
+    {
+      "id": "0088748",
+      "name": "Polo T-shirt",
+      "thumbnail": "https://placeimg.com/200/250/cloth",
+      "size": "Small",
+      "price": 64.00,
+      "quantity": 4,
+      "In_Stock": true
+    }
+  ]
+}
