@@ -14,6 +14,7 @@ Assignment of TB Platform
 ### Folder Structure
 
 ```bash
+├── /mock/           # Mock product data
 ├── /server/         # Backend source code
 | ├── /api.js        # Backend Api services
 | ├── /config.js     # Backend configs
@@ -34,7 +35,7 @@ npm run dev
 ```
 ## Production Deployment
 
-Can Docker / Docker-compose to deploy the web app and its service.
+Can use Docker / Docker-compose to deploy the web app and its service.
 In default setting, app will be deployed to :80 directly
 
 
