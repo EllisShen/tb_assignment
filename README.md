@@ -40,13 +40,7 @@ In default setting, app will be deployed to :80 directly
 
 ## API Specification
 
-All frontend activities and updates are basically driven by UI events (mouse or keyboard clicks) and actively API requesting to backend system.
-
-The real API to transcoder and google cloud are all done in the backend. It provides restful APIs for frontside to fetch, update and delete the video.
-
-Ａll error code are reporting as 4xx with json object { msg: 'XXXXX' }.
-
-The following is the table of current API service provided by backend:
+The following is the table of demo API service:
 
 | Endpoint                 | Type    | Parameters            |  Return Code | Return Value                           |    Description             | 
 | -------------------------|---------| ----------------------| -------------|----------------------------------------|----------------------------|
